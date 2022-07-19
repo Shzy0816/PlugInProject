@@ -1,0 +1,3 @@
+rootProject.name = "PlugInProject"
+include ':hostapp'
+include ':pluginapp'
